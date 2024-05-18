@@ -4,7 +4,7 @@ Open this program to run multiple Roblox instances (on different accounts) on th
 This code was made by MiningTcup and MainDabRblx but was compiled to and exe by CalvinCooler to make it easier to use.
 
 
-**Download** [**Here**](https://github.com/CalvinCooler/Roblox-Multi-Instance/raw/main/RobloxMultiInstance.exe)
+**Download** [**Here**](https://github.com/CalvinCooler/Roblox-Multi-Instance/archive/refs/heads/main.zip)
 
 ***
 
